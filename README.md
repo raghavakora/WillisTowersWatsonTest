@@ -1,4 +1,4 @@
-## WillisTowersWatson Test 
+## JavaScript Automation Test 
 ### Introduction
 This test has developed by using Node & Cypress
 language : Javascript
